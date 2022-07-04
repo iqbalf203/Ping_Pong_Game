@@ -1,4 +1,3 @@
-from tkinter import CENTER
 import turtle
 
 wn = turtle.Screen()
